@@ -39,6 +39,14 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Live Demo
+
+Try the deployed Heart Disease Prediction app here:
+
+ [**Open Live App**](https://heart-disease-prediction-tj6syshwwgi62njukik9qy.streamlit.app/)
+
+This application uses a K-Nearest Neighbors (KNN) machine learning model to generate educational predictions based on user-provided inputs.
+
 ## Disclaimer
 This project is developed for educational purposes only. Its predictions are experimental estimates and must not be considered a medical diagnosis or a substitute for advice from a qualified healthcare professional.
 
